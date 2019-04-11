@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"
+        android:id="@+id/group1">
+        <item
+            android:id="@+id/nav_collection"
+            android:title="Android Business"></item>
+
+        <item
+            android:id="@+id/nav_dropship"
+            android:title="Drop shipping Business  " />
+        <item
+            android:id="@+id/nav_facebook"
+            android:title="Facebook Business  " />
+        <item
+            android:id="@+id/nav_youtube"
+            android:title="YouTube Business  " />
+        <item
+            android:id="@+id/nav_course"
+            android:title="Course List  " />
+        <item
+            android:id="@+id/nav_blogger"
+            android:title="Blogger Business  " />
+        <item
+            android:id="@+id/nav_buyapp"
+            android:title="Buy Android App  " />
+        <item
+            android:id="@+id/nav_website"
+            android:title="Order Website  " />
+        <item
+            android:id="@+id/nav_privacy_policy"
+            android:title="Privacy Policy" />
+        <item
+            android:id="@+id/nav_about"
+            android:title="Contact Us" />
+    </group>
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/group2">
+        <item
+            android:id="@+id/nav_invite"
+            android:title="Invite Friends"></item>
+        <item
+            android:id="@+id/nav_rate"
+            android:title="Rate Us"></item>
+
+    </group>
+</menu>

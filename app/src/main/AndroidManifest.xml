@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.makewishonline.makemoney">
+    <!-- Permission -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".IntroActivity">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.makewishonline.makemoney.HowToStart"
+            android:label="How To Start"
+            android:parentActivityName="com.makewishonline.makemoney.MainActivity"
+            android:configChanges="orientation|screenSize"/>
+        <activity
+            android:name="com.makewishonline.makemoney.Order_site"
+            android:label="Order Site"
+            android:parentActivityName="com.makewishonline.makemoney.MainActivity" />
+        <activity
+            android:name="com.makewishonline.makemoney.AffiliateSite"
+            android:theme="@style/Theme.Design.NoActionBar"/>
+        <activity
+            android:name="com.makewishonline.makemoney.Courses"
+            android:configChanges="orientation|screenSize"
+            android:label="All Courses"
+            android:parentActivityName="com.makewishonline.makemoney.MainActivity" />
+        <activity
+            android:name="com.makewishonline.makemoney.ContactUs"
+            android:label="Contact Us"
+            android:parentActivityName="com.makewishonline.makemoney.MainActivity" />
+        <activity
+            android:name="com.makewishonline.makemoney.Blogger"
+            android:configChanges="orientation|screenSize"
+            android:label="Blogging Business"
+            android:parentActivityName="com.makewishonline.makemoney.MainActivity" />
+        <activity
+            android:name="com.makewishonline.makemoney.PricingDemoStore"
+            android:theme="@style/Theme.Design.NoActionBar" />
+        <activity
+            android:name="com.makewishonline.makemoney.MyStore"
+            android:theme="@style/Theme.Design.NoActionBar" />
+        <activity
+            android:name="com.makewishonline.makemoney.BloggingSite"
+            android:theme="@style/Theme.Design.NoActionBar" />
+        <activity
+            android:name="com.makewishonline.makemoney.Facebook_business"
+            android:label="Facebook Business"
+            android:parentActivityName="com.makewishonline.makemoney.MainActivity" />
+        <activity
+            android:name="com.makewishonline.makemoney.youtube_policy_monitization"
+            android:label="YouTube Business"
+            android:parentActivityName="com.makewishonline.makemoney.Youtube_business" />
+        <activity
+            android:name="com.makewishonline.makemoney.Youtube_business"
+            android:label="YouTube Business"
+            android:parentActivityName="com.makewishonline.makemoney.MainActivity" />
+        <activity
+            android:name="com.makewishonline.makemoney.Dropshiping"
+            android:configChanges="orientation|screenSize"
+            android:label="DropShipping Business"
+            android:parentActivityName="com.makewishonline.makemoney.MainActivity" />
+        <activity
+            android:name="com.makewishonline.makemoney.Android"
+            android:configChanges="orientation|screenSize"
+            android:label="Android App Business"
+            android:parentActivityName="com.makewishonline.makemoney.MainActivity" />
+        <activity
+            android:name="com.makewishonline.makemoney.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+        </activity>
+        <activity
+            android:name="com.makewishonline.makemoney.reports"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.makewishonline.makemoney.rating"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.makewishonline.makemoney.HindiMovies"
+            android:label="All Movies"
+            android:parentActivityName="com.makewishonline.makemoney.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.makewishonline.makemoney.Android_app"
+            android:label="Buy Android App"
+            android:parentActivityName="com.makewishonline.makemoney.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.makewishonline.makemoney.DetailActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="Buy Android App"
+            android:parentActivityName="com.makewishonline.makemoney.Android_app" />
+        <activity
+            android:name="com.makewishonline.makemoney.Policy"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name="com.facebook.ads.AudienceNetworkActivity"
+            android:hardwareAccelerated="true" />
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="462369786ea683d99b67b4d95c1abbc918953d43" />
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713"/>
+    </application>
+
+</manifest>

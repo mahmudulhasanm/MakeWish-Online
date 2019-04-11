@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "739600191004",
+    "firebase_url": "https://makewish-online.firebaseio.com",
+    "project_id": "makewish-online",
+    "storage_bucket": "makewish-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739600191004:android:d7adc8040a7c0efd",
+        "android_client_info": {
+          "package_name": "com.makewishonline.makemoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739600191004-ijhv27vvnjfik2ahk2i3103gckh1vahm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.makewishonline.makemoney",
+            "certificate_hash": "11f4057d057fa52bf28994e793d3a53afb249cec"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZvtK-H0TXNRmCpXUMNQx6Tg-OUzVp4jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739600191004-uiqdg188n7guvr07clsdinfdrp6r2ig0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

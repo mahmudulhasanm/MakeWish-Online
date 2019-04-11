@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#ddd"
+    android:layout_height="match_parent"
+    tools:context=".Facebook_business">
+<ScrollView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:id="@+id/banner_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:background="@drawable/content"
+            android:orientation="vertical"
+            android:padding="10sp"
+            android:layout_margin="10sp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:fontFamily="@font/neo_latina"
+                android:textSize="16sp"
+                android:layout_marginTop="10sp"
+                android:textStyle="bold"
+                android:text="@string/facebook_money"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/money_facebook" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="normal"
+               android:textSize="15sp" android:fontFamily="@font/opensense"
+                android:textColor="#000"
+                android:text="@string/facebook_content1"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:background="@drawable/content"
+            android:orientation="vertical"
+            android:padding="10sp"
+            android:layout_margin="10sp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+
+                android:textSize="16sp" android:fontFamily="@font/opensense"
+                android:layout_marginTop="10sp"
+                android:textStyle="bold"
+                android:text="@string/facebook_one"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="normal"
+               android:textSize="15sp" android:fontFamily="@font/opensense"
+                android:textColor="#000"
+                android:text="@string/facebook_content2"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:background="@drawable/content"
+            android:orientation="vertical"
+            android:padding="10sp"
+            android:layout_margin="10sp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:textSize="16sp" android:fontFamily="@font/opensense"
+                android:layout_marginTop="10sp"
+                android:textStyle="bold"
+                android:text="@string/facebook"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/fanpage" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="normal"
+               android:textSize="15sp" android:fontFamily="@font/opensense"
+                android:textColor="#000"
+                android:text="@string/facebook_content3"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:textSize="16sp" android:fontFamily="@font/opensense"
+                android:layout_marginTop="10sp"
+                android:textStyle="bold"
+                android:text="@string/affiliate_marketting"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/affi" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="normal"
+               android:textSize="15sp" android:fontFamily="@font/opensense"
+                android:textColor="#000"
+                android:text="@string/affi_facebook"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:textSize="16sp" android:fontFamily="@font/opensense"
+                android:layout_marginTop="10sp"
+                android:textStyle="bold"
+                android:text="@string/facebook_websites"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/website" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="normal"
+               android:textSize="15sp" android:fontFamily="@font/opensense"
+                android:textColor="#000"
+                android:text="@string/facebook_website"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:background="#4CAF50"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:padding="5sp"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:textColor="#fff"
+                android:text="@string/website_make"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:background="@drawable/circle2"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:layout_marginRight="20sp"
+            android:id="@+id/affiliate"
+            android:layout_marginTop="20sp"
+            android:layout_marginBottom="20sp"
+            android:layout_marginLeft="20sp"
+            android:layout_height="70sp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20sp"
+                android:textSize="16sp"
+                android:fontFamily="@font/opensense"
+                android:layout_marginRight="20sp"
+                android:textColor="@color/colorPrimary"
+                android:text="Pricing To Make Affiliate Websites"/>
+        </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@drawable/content"
+        android:orientation="vertical"
+        android:padding="10sp"
+        android:layout_margin="10sp"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:textSize="16sp" android:fontFamily="@font/opensense"
+            android:layout_marginTop="10sp"
+            android:textStyle="bold"
+            android:text="@string/facebook_sell"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+           android:textSize="15sp" android:fontFamily="@font/opensense"
+            android:textColor="#000"
+            android:text="@string/facebook_sell_content"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:textSize="16sp" android:fontFamily="@font/opensense"
+            android:layout_marginTop="10sp"
+            android:textStyle="bold"
+            android:text="@string/facebook_monitize"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/fb_monitize" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+           android:textSize="15sp" android:fontFamily="@font/opensense"
+            android:textColor="#000"
+            android:text="@string/facebook_monitize_content"/>
+    </LinearLayout>
+    </LinearLayout>
+</ScrollView>
+</LinearLayout>

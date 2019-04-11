@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#2E2E2E</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="statusBarColor">#084606</color>
+
+
+    <color name="gradient_start_color" tools:ignore="MissingDefaultResource">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+
+
+    <!-- colors for tab and screent text -->
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
+
+    <color name="colorAccentRed">#ff0000</color>
+    <color name="colorAccentBlue">#03a9f4</color>
+    <color name="colorAccentGrey">#999999</color>
+    <color name="colorAccentGreen">#557f5f</color>
+
+    <color name="progressGreen">#78c8a1</color>
+    <color name="progressGreenLight">#aed787</color>
+    <color name="progressYellow">#ffd834</color>
+    <color name="progressOrange">#ffb234</color>
+    <color name="progressRed">#ff8b5a</color>
+
+    <color name="textColorPrimaryDark">#757575</color>
+    <color name="textColorPrimaryLight">#bfbfbf</color>
+    <color name="textColorSecondary">#404040</color>
+    <color name="textColorSecondaryDark">#212121</color>
+    <color name="textColorSecondaryLight">#666666</color>
+
+    <color name="windowBackground">#eeeeee</color>
+    <color name="windowBackgroundDark">#e6e6e6</color>
+    <color name="windowBackgroundLight">#f2f2f2</color>
+
+    <color name="layoutBackground">#d9d9d9</color>
+    <color name="layoutBackgroundDark">#cccccc</color>
+    <color name="layoutBackgroundLight">#e0e0e0</color>
+
+    <color name="iconsDark">#4d4d4d</color>
+    <color name="iconsLight">#808080</color>
+    <color name="dividerDark">#999999</color>
+    <color name="dividerLight">#cccccc</color>
+
+
+    <color name="socialColorGoogle">#dd4b39</color>
+    <color name="socialColorFacebook">#3b5998</color>
+
+    <color name="sellerDivColor">#FFCDEFFF</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="colorPrimaryLight">#5c76a3</color>
+</resources>

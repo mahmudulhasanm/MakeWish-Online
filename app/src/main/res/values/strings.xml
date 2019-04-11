@@ -1,0 +1,465 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MakeWish Online</string>
+
+    <string name="app_update_default_title">App Update</string>
+    <string name="app_update_default_description">Looks like you have an older\nversion of the app.\nPlease update to get latest\nfeatures and best experience.</string>
+    <string name="app_update_positive_text">UPDATE NOW</string>
+
+
+
+    <string name="contact">If you have any questions or suggestions about my App, do not hesitate to contact me. \n\nuniquebyofficial@gmail.com</string>
+    <string name="android_content">Everybody needs a few extra bucks now and then.
+        However, we’re not so foolish as to try to make you believe that you’ll earn a living sitting at home doing nothing.</string>
+    <string name="admob">Admob is a mobile advertising company it\'s an Google products which is provides ads in the app</string>
+    <string name="android_studio">What is Android Studio?</string>
+    <string name="android_studio_content">Android Studio is the enverment for making Android apps development which is developed by google.
+        \nIf you want make money with Android apps, first you need to developed Android apps.\n\nYou can download Android Studio from this link https://developer.android.com/studio
+
+    </string>
+    <string name="low_cost">If you want buy Android apps at low cost, you can buy form us.
+        \n\nWe have 200+ Play store ready Android apps, you can double check to others marketplaces or developers how much lower cost you can get from us.
+        \n\nEven we provides all services app making to upload on google play, if you want you can get it.
+
+    </string>
+    <string name="content">No matter if don\'t have any idea about Android platforms, we will teach you all of things.
+        \n\nWe will provide all services which is need to make an app and publish on Play Store, and earn from Android Application.
+        \n\nYou can learn how to make an application but it\'s a long process. You can learn from us, goto Course section and find which course you want do.
+        \n\nYou can see many companies or freelancers, who are making the app by other developers and earn from it. Why you not?
+        \n\nYou can\'t imagine, how much money you can generate by the android app.
+        \n\nYou can double check to others marketplaces or developers how much lower cost you can get from us.
+        \nEven until today, I don\'t think, anyone will give you support like us.
+        If you buy from other developers or marketplaces you can get only the Android app at the high cost.
+        Even if you want to upload google play store, you need to change many things like (Logo, Graphics, Package name, Integrate AdMob, and more).
+        \n\nCheck Our All apps &amp; pricing which we provide for you, and you can see all the services, Click on (See Our All Apps &amp; Pricing) button below.
+    </string>
+    <string name="content1">We have 200+ Play Store ready Android app, you can choose any one or order for new apps at low cost.
+        \n\nList Of Our Services For Android App\:
+        \n\n1. Choose Apps and give some info we will make for you.
+        \n2. If you want we will upload app on Google Play Store.
+        \n3. All Guide for manage your Play Console, AdSense, Admob and others things for your apps.
+        \n4. Support, if you need we will give support by TeamViewer.
+        \n\nIf you work with us or Work on android you need know and learn somethings, We\'ve discussed below.</string>
+    <string name="play_console">It is Google\’s dedicated dashboard for developers that lets you manage your apps in the Play Store.
+        Google has a one time \$25 USD registration fee which you need to pay before you can upload an app.
+        \n\nIf you things it\'s a big amount for you, I will give you some tips.
+        \n\n\*Share with you friends who is interested, after that buy one play console account and buy some android apps.
+        \n\n\*Think about if you have 5 android apps on Google Play Store,
+        Let Minimum income per android app in a month \$30 USD, Now calculate income 30\*5 \=150 USD per month your income.
+        \n\nit\'s a lifetime passive income. How many incomes you generate, it\'s depends on you, because you need share your apps with friends, social media and marketing your app, you also get organic user from google play store.
+
+    </string>
+    <string name="adsense">Admob is a part of AdSense service which monetise Android Apps for advertisements where as AdSense is used to monetise Websites.
+        Publishers can use these ad services to monetise their respective platform and earn from their traffic
+        (Users visiting or using their platform)\n\nAll Admob earning google will pay via AdSense, for example month of Jan your admob income reach \$100 google will pay you month of Feb 21.
+    \n\nGoogle only pay, when your payment threshold reached \$100 USD</string>
+    <string name="contact_with">If have any question don\'t hesitate to contact us. please go to the contact section and contact me via (WhatsApp, Facebook, Gmail)</string>
+    <string name="dropship">DropShipping is a retail fulfillment method where a store doesn\'t
+        keep the products it sells in stock. Instead, when a store sells a product,
+        it purchases the item from a third party and has it shipped directly to the customer.
+        As a result, the merchant never sees or handles the product.
+        \n\nIf I say in simple language, For example, you choose a product on AliExpress which is sell rate \$15 USD,
+        You add the product on your own store and you will sell it for \$25 USD. When any customer order on your store,
+        after that you fulfill the order on AliExpress, AliExpress sent the products to your customer,
+        your profit is \$10 USD. It\'s DropShipping.
+
+        \n\nWhat is AliExpress?\nAliExpress is an Ebay-like service based in China that is owned by Alibaba.
+        It\’s a marketplace where individuals from all over the world can buy direct from Chinese companies.\n\n
+        Editor\’s Note: I\’m using the term \“Chinese company\” quite loosely here.
+        Sellers on AliExpress can be individuals, small businesses, trading companies or factories.
+
+        \n\nThe main difference between AliExpress and Ebay is that AliExpress is much larger and far less expensive.\n\n
+        Because AliExpress is based in China where the labor costs are substantially less,
+        you can find products on AliExpress that are significantly cheaper than anywhere else.
+        \n\nThe huge disparity in cost allows you to make a profit by selling an item at US prices and having it shipped directly from China.
+
+
+        \n\nFor DropShipping Business first you need to make a E-commerce website or store.
+        \n\nThe biggest difference between dropshipping and the standard
+        retail model is that the selling merchant doesn\'t stock or own inventory.
+        Instead, the merchant purchases inventory as needed from a third party –
+        usually a wholesaler or manufacturer – to fulfill orders.</string>
+    <string name="shopify">DropShipping with Shopify\:</string>
+    <string name="shopify_content">What is Shopify and how does it work? Shopify is a complete commerce
+        platform that lets you start, grow, and manage a business.  \n\n\* Create and customize an online store
+        \n\n\* Sell in multiple places, including web, mobile, social media, online marketplaces,
+        brick-and-mortar locations, and pop-up shops  Manage products,
+        \n\n\* inventory, payments, and shipping
+        \n\n\* Shopify is completely cloud-based and hosted,
+        which means you don’t have to worry about upgrading or maintaining software or web servers.
+        This gives you the flexibility to access and run your business from anywhere with an internet connection.
+        \n\nHow much does Shopify cost?\nI do not want to tell about Shopify and recommend, because it costs too much, If you want start dropshipping business with Shopify you need around \$300-\$400 USD per month, I think it\'s big amounts to start.</string>
+    <string name="woocommece">WordPress and WooCommerce\:</string>
+    <string name="woo_content">If you want start DropShipping business, I will recommend to start with WordPress and WooCommerce. Because you can start a business for only around \$250 USD for a year.
+    \n\nWhat is WordPress?
+        \nWordPress is a free and open-source content management system based on PHP &amp; MySQL.
+        Features include a plugin architecture and a template system.
+        It is most associated with blogging but supports other types of web content including more traditional
+        mailing lists and forums, media galleries, and online stores.\n\nYou can easily menage and run website by WordPress.
+    \n\nWhat is WooCommerce?\nWooCommerce is an open-source e-commerce plugin for WordPress.
+        It is designed for small to large-sized online merchants using WordPress.
+        \n\nWooCommerce is an plugin of wordpress which is make environment of e-commerce function and manage your e-commerce store.
+    \n\nIf want to start business you need to learn basic concept about WordPress &amp; WooCommerce, You can take the courses to us in our courses section. Or you can learn on YouTube for free. Or you can learn any where.
+    \n\nWhat do you need to make a DropShipping Store?
+        \n\n1. WooCommerce Supported WordPress theme for your store.
+        \n\n2. AliDropship Plugin to import products from AliExpress.
+        \n\n3. Domain &amp; Hosting for your store.
+        \n\nWhen your store will be ready, after that you can add your products from AliExpress which products you want to sell.
+        \nAnd you can easily sell your products via Facebook &amp; Google Ads.
+    </string>
+    <string name="dropship_content">We will do everything for your DropShipping store at lower cost.
+            \n\nYou can double check to others marketplaces or developers how much lower cost you can get from us.
+        \nEven until today, I don\'t think, anyone will give you support like us and low cost.\n\nYou can see in below our DropShipping Store &amp;
+        Our Pricing for make full ready DropShipping store.</string>
+    <string name="youtube_content1">If you\’re like most people,
+        you probably have some favorite YouTube channels that you love
+        to watch every day. These people might even tell you how they quit their
+        jobs to do YouTube full time. Maybe there\’s a burning fire inside you to learn
+        how to make money on YouTube but you figure it takes too much time, it\’s too hard
+        , and it\’ll never happen. \n\nIt worked from THEM but will
+        never work for you....\n\nWant to know something awesome?
+        \n\nIf you want to be a success on youtube you need to make high-quality content,
+        At this time you thinking which type of content do you will make it. I will give you some tips.
+        \n\nYou can make animation video like(jocks, news, story ex.)
+        \n\nRight now you can easily make animation videos by using online tools
+        \n\nSome list Of Online Animation maker:
+        \n* https://www.renderforest.com/animation-maker.html
+        \n* https://www.animaker.com/
+        \n* https://www.animatron.com/
+        \n* https://explee.com/
+        \n\nIt turns out as long as you have a
+        strategy and know what methods to use, making money on YouTube is EASY and FUN and you can do
+        it too\! All you need to do is use these methods while staying consistent with your posting schedule,
+    and you can be on your way to reaching heights of what top YouTube earners like Daniel Middleton (DanTDM) make…16.5 million dollars over the year!</string>
+    <string name="youtube_content2">In this article, we\’re going to show you how to make a YouTube channel in less than 5 minutes,
+        the different ways of monetizing a YouTube channel,
+        and give you some extra tips to make sure that your channel will be a success.
+        \n\nBy the end of this article, you’ll have everything you need for how to make money on YouTube.</string>
+    <string name="how">How to Make Money on YouTube 2019</string>
+    <string name="chapter_1">CHAPTER 1</string>
+    <string name="how1">How to Make a YouTube Channel</string>
+    <string name="chapter_2">CHAPTER 2</string>
+    <string name="how2">How to Make Money on YouTube: The 3 Main Ways</string>
+    <string name="chapter_3">CHAPTER 3</string>
+    <string name="how3">Summary of How to Make Money on YouTube</string>
+    <string name="chapter_4">CHAPTER 4</string>
+    <string name="how4">5 Tips to Monetize Your YouTube Channel</string>
+    <string name="cp_content">CHAPTER 1 \n\nHow to Make a YouTube Channel</string>
+    <string name="cp1_content1">Before you learn how to monetize your YouTube channel, you need to have an actual channel set up\! It\’s extremely easy to get started.</string>
+    <string name="_1_go_to_youtube">1. Go to Youtube</string>
+    <string name="_2_click_sign_in_at_the_top_right_corner">2. Click \“Sign In\” at the top right corner</string>
+    <string name="signin">3. Sign in or create a Google account</string>
+    <string name="_4_once_you_ve_signed_in_you_can_click_the_gear_icon_in_the_top_right_corner">4. Once you\’ve signed in, you can click the gear icon in the top right corner</string>
+    <string name="info_last">5. You\’ll then see an option to create an account under your account information</string>
+    <string name="cp_2_content">CHAPTER 2 How to Make Money on YouTube: The 3 Main Ways</string>
+    <string name="cp_2_more">There are 3 main ways to monetize YouTube which we\’ll teach you about in this article</string>
+    <string name="monitize">👉 Become a YouTube partner and make money from ads
+        \n\n👉 Work with brands as an affiliate or become sponsored
+        \n\n👉 Sell products or merchandise\n\nLet\’s go over each one and learn how they work.</string>
+    <string name="ads1">Become a YouTube partner and make money from ads:</string>
+    <string name="apply_for_ads">When looking at how to make money on YouTube, the easiest method is through ads:
+        You let YouTube display different types of ads in your videos or alongside them,
+        and when someone clicks on these ads or purchases something, you receive a commission.
+        \n\nTo make money from ads, you’ll need to become a YouTube partner.
+        You can do this by going into the Creator Studio section of your account and enabling monetization.
+        You will also need to sign up for Google’s AdSense network.
+        \n\nYou can find instructions of how to do all of this from Google by clicking YouTube Policy button below.</string>
+    <string name="youtube_policy">YouTube Policy</string>
+    <string name="sponsored">Work with brands as an affiliate or become sponsored:</string>
+    <string name="sponsored_content">As your channel grows and you have more subscribers,
+        you may start getting approached by different brands to showcase their products to your audience.
+        This is a great way of earning an income through YouTube,
+        because all you need to do is spend a minute or so showcasing products you love in your videos.
+        \n\nSponsors will usually pay you a flat fee for advertising per video,
+        and provide you with a special link so that if someone actually buys a
+        product from them, you also receive an extra commission. It’s a great way to monetize YouTube.
+        \n\nFor example in this video, you can see fitness YouTuber David de las Morenas talk about his sponsor,
+        Vincero Watches.
+        \n\nRelated to this is non-sponsored affiliate marketing.
+        Here you don’t need anybody to approach you, but you just showcase a product or service that
+        pays an affiliate commission if a viewer clicks or buys. </string>
+    <string name="sell">Sell products or merchandise:</string>
+    <string name="sell_content">If you want to know how to make money on YouTube, it’s a good idea to think ahead into selling your own products or merchandise. YouTubers make a lot of money doing this and for many of them, it’s their main source of income.</string>
+    <string name="info_dis">Depending on what your channel is about, you might sell:
+        \n\n👉 Online Courses\n\n👉 E-books\n\n👉 Clothing\n\n👉 Supplements\n\n👉 Board Games\n\n👉 Coaching Packages</string>
+    <string name="sell_more_content">As you grow your channel you can start to see what your audience wants combined with what you’d like to create. You can then create your own website where you’ll host your products, and send people there to buy them.</string>
+    <string name="cp_3">Summary of How to Make Money on YouTube</string>
+    <string name="cp2_more">Here is a summary of the advantages and disadvantages of the main ways of how people can earn money on Youtube:</string>
+    <string name="partner">YouTube partner and AdSense:</string>
+    <string name="advantage">Advantages: \n\n👉 Easy to get started (sign up takes less than 10 minutes)
+        \n👉 Default method on YouTube
+        \n👉 Can earn revenue on your first posted video
+        \n\nDisadvantages: \n\n👉 Strict YouTube algorithms may de-monetize your videos for unfair reasons
+        \n👉 Hard to make high revenue unless you have MANY viewers and subscribers</string>
+    <string name="affi">Sponsors and becoming an affiliate:</string>
+    <string name="affi_content">Advantages: \n\n👉 Easy to get revenue as all you have to do is talk about a product or include a link for viewers to click
+        \n\nDisadvantages: \n\n👉 Depending on what you’re promoting, the revenue could be low per affiliate commission
+        \n👉 Sponsors specifically won’t be interested unless you’re popular on YouTube</string>
+    <string name="selling">Selling products or merchandise</string>
+    <string name="selling_content">Advantages:  \n\n👉 High revenue potential
+        \n👉 Get paid to create whatever you want \n\nDisadvantages:  \n\n👉 Will need to have a loyal fan base first before using this income method or invest into search engine optimization</string>
+    <string name="cp_4">CHAPTER 5 \n\n5 Tips to Monetize Your YouTube Channel</string>
+    <string name="cp4_more">Here are 5 additional tips to monetize your YouTube channel and make more money:</string>
+    <string name="quality">Stay consistent and keep on improving your video quality:</string>
+    <string name="quality_content">The only way to get more engagement, subscribers, and fans is to consistently put out videos.
+        This is the real secret of monetizing a YouTube channel.
+        \n\nNot only will this make you more money, but you\’ll get better, feel more comfortable in
+        front of the camera, and end up being more persuasive so you can get your viewers to buy\!
+        \n\nOnce you start creating don\’t stop, and you\’ll see that every day, you get better and better.</string>
+    <string name="equipments">Upgrade your equipment:</string>
+    <string name="equipments_content">What videos do you prefer to watch on YouTube?
+        Shaking videos from a bad smartphone camera, or steady videos filmed on a high quality DSLR?
+        We’ve got some good news for you:  \n\nWhen you start learning how to make money on youtube,
+        it’s perfectly OK to just use your smartphone. But as you continue to grow your channel, we highly recommend you consider upgrading your equipment.</string>
+    <string name="quality_audience">Make high quality content and listen to your audience:</string>
+    <string name="quality_audience_content">You know the #1 mistake most creative people make when making their art?
+        \n\nThey ONLY make it for THEM, and not for THEIR AUDIENCE.
+        \n\nAlways put your audience first, think about them, and ask what they want made.
+        Now this doesn\’t mean that you have to make something that you don\’t want to
+        just because your viewers are asking for it.
+        You should be making things both that you want to make, and that your viewers want.</string>
+    <string name="website">Consider expanding to other channels and making your own website:</string>
+    <string name="website_content">The most successful YouTubers have their
+        own personal websites where they sell other items.
+        They also have side channels and others accounts, like podcasts,
+        Instagram, Twitter, and more.  \n\nAs you continue to grow, you should think about
+        expanding your reach and creating more channels so you have a higher chance to reach more people.
+        If you\’d like to get started with another channel</string>
+    <string name="cop">Copyright your headlines and create good thumbnails:</string>
+    <string name="cop_content">To figure out how to make money on YouTube, you need to get good at
+        creating attractive headlines (or titles) for your videos.
+        There are MILLIONS of videos on YouTube and having a good title is what gets people to click,
+        watch, and eventually pay you.  \n\nFor example, we searched for \“how to write a book”\ on YouTube and here are some of the results:</string>
+    <string name="cop2_content">We highlighted the two that we liked the best.
+        These titles catch your attention and if you want to write a book and you\’re just starting out,
+        these would make the most sense. Compare these titles to \“BOOK WRITING | EP 1\”.
+        While this video and title might be entertaining, if you want information, you\’d
+        probably be more likely to click on the other two titles.\n\nYou can see that the video\’s \“featured image\ or \“thumbnail\”
+        is also really important in getting someone to click on your video, and eventually,
+        pay you! Different influencers will tell you different things about what is best,
+        for example, keeping it simple, versus making it super colorful.
+        \n\nWe recommend that you try out a few different styles and see what your viewers like best.
+        Canva is a great free tool that you can use to make your images. </string>
+    <string name="facebook_money">How to make money from Facebook</string>
+    <string name="facebook_content1">Facebook is the world\’s number one social media platform so it\’s
+        easy to see that people want to learn how to make money from Facebook.
+        \n\nIn early 2018, Facebook already had over 2 billion active monthly users,
+        with 500,000 new users added daily.  \n\nIt comes in third for most-visited websites, after video-streaming site YouTube and search engine giant Google.</string>
+    <string name="facebook_one">3 Ways to Make Money from a Facebook Account</string>
+    <string name="facebook_content2">You can earn money from a Facebook account.
+        It doesn\’t even have to be a business account.
+        An ordinary personal account will do.  \n\nHere are 3 ways how to do this:\n\n1. Facebook Pages\n\n2. Facebook Groups\n\n3. Facebook Profiles\n\nYou can apply same method on Facebook Groups,page, profile.
+
+    </string>
+    <string name="facebook">1. Facebook Pages &amp; Groups</string>
+    <string name="facebook_content3">I am going to share some actionable methods to make money using Facebook fan page &amp; Facebook groups.
+        \n\nIn fact, I have been managing several pages &amp; groups from some years.
+        And I am making money using those pages &amp; by implementing different methods.
+        \n\nGrowing a Facebook page and monetizing it sounds like fun but it does require hard work to manage them, find contents to post and find ways monetize them.
+        \n\nBut if you don\’t want to put in a lot of time and effort to grow and monetize a page from the bottom.
+        Then, I recommend you to use FPTraffic.  \n\nFPTraffic manages pages with more than 250,000,000 Likes.
+        This tool helps you to find contents with a search and schedule all of them with a click of a button.
+        \n\nThis tool also helps you to make money using Amazon Affiliates links.  \n\nThis is a must tool,
+        if you want to save your time &amp; effort while making good chunk of money from Facebook pages.
+        \n\nNow, that you know how to grow and manage Facebook pages,
+        I am going to share the methods to monetize those pages with you step-by-step.  So, let\’s start</string>
+    <string name="affiliate_marketting">1. Affiliate Marketing</string>
+    <string name="affi_facebook">If your page &amp; groups is about specific topic,
+        then there may be an affiliate program about the topic or niche.
+        \n\nA ll you have to do is make a quick google search to find the affiliate program related to your page.
+        \n\nSearch \“your niche + affiliate program\” on google and you will find a lot of affiliate program for your page.
+        \n\nFind a quality product and learn everything about the product.
+        \n\nWhen you are sure about the quality of the product, then you can recommend the products to your fans.
+        \n\nWhen you recommend a good product, people will buy it if they find it useful.
+        \n\nYou can also join Amazon Affiliate program where you can find a
+        lot of products that you can recommend to your fans.
+        \n\nAnd by using FPTraffic , you can easily schedule posts with your affiliate links without visiting Amazon.
+        \n\nAffiliate program will give you a tracking link and when your fans purchase the products through your link,
+        you will receive a commission.
+        \n\nPro tip: To maximize your earnings, you can create a simple website
+        and write honest review about the product and add your affiliate link while recommending the product.
+        \n\nThen you can post the article link on your fan page &amp; send traffic  to your website.
+        \n\nPeople like to read full reviews before purchasing a product.
+        So, this will help you to maximize your affiliate earnings.
+        \n\nAffiliate marketing is one of the easiest way to make money from your Facebook page.
+      </string>
+    <string name="facebook_websites">3. Facebook Fan Page + Groups + Website:</string>
+    <string name="facebook_website">Almost every Facebook pages &amp; groups are doing this and making money.
+        And you can also do the same and make a good amount of money using this method.
+        \n\nYou need to create a website based on your niche and send traffic to your page &amp; groups
+        and make money with sponsored ads displayed on your web page &amp; Affiliate link.
+        \n\nThis method is one of my favorite way to monetize a Facebook fan page.
+        This method has a lot of potential because your fans are interested
+        in your niche then you can write entertaining contents or hot news about
+        your niche and post on your page to get traffic.
+        \n\nAnd when you publish hot and trending news, chance are \“Your article will go viral on Facebook\”.
+        \n\nYou can make huge money using this method, you just have to stay consistent.</string>
+    <string name="facebook_sell">4. Selling Your Fan Pages &amp; Groups:</string>
+    <string name="facebook_sell_content">There are a lot of marketplace to buy/sell Facebook pages &amp; Facebook Groups.
+        If your page is in hot niche &amp; has potential reach, then you can get a good price.
+        \n\nI even know some people who grows Facebook pages and sells as their business.
+        \n\nYou can find some website which make a deal of fan pages,
+        but I haven\’t used any of them. So, I don\’t recommend them.
+        \n\nThere are also some groups on Facebook itself,
+        where you can sell your fan page by using the admin of the group as middleman.
+        \n\nPlease use your sense while making a deal to avoid getting scammed.
+
+    </string>
+    <string name="facebook_monitize">Facebook video Monetization</string>
+    <string name="facebook_monitize_content">One thing that\’s hot right now on Facebook is videos.
+        It\’s very easy to make videos viral on Facebook. As, everyone loves to watch videos.
+        \n\nAnd with Facebook\’s video ad breaks, you can make good money from your Facebook fan page.
+        \n\nAd breaks are short video ads that you can place in your content.
+        Your video must be 3 minutes to long to show ads.  \n\nAccording to Facebook,
+        here are few more requirements to become eligible for video ad break:-
+        \n\n1. You must have 10,000 followers on your page. \n\n2. You must have 30,000 one minute views in the last
+        60 days Facebook ad breaks are only available few countries , You can check your country available or not.
+        So you must be from one of these countries to become eligible for ad breaks.
+        \n\nIf you are passionate about creating videos ,
+        you can make good amount of money from fan page using Ad breaks.</string>
+    <string name="website_make">If you need WordPress Affiliate websites you can contact with us we will make for you at low cost,
+        Even we will teach you how can you manage your websites.
+        \n\nYou can check our demo amazon affiliate websites or others affiliate websites.
+        \n\nClick on below button to see our pricing for make full ready affiliate websites.</string>
+    <string name="blog_content1">Can you make money blogging?  \n\nWhat are the various ways to make money from blogging?
+        \n\nHow much can I earn?  \n\nCan I talk about my life and make money?
+        \n\nWhat should I blog about to make money?
+        \n\nThese are just some of the most common question bloggers at various level \(Beginners, Intermediate\)
+        have and in this exclusive guide, I\’m helping you to answer all these questions.
+        I will also show you some of the best ways to make money blogging that you can use in 2019 and the years to come.
+    </string>
+    <string name="blog_money">How to make money by Blogging</string>
+    <string name="blog_h1">How Much Can You Earn From Blogging?</string>
+    <string name="blog_earn_content">Whether you\’re looking to supplement your income with a little extra to
+        pay for a few nice treats or create a blog that will support your lifestyle then you can pretty much
+        make as much money as you like from blogging if you are prepared to put in the hard work.
+        \n\nThere are lots of great stories out there of successful bloggers who make money blogging:
+        \n\nFor example over the past couple of years, husband and wife team, Bjork and Lindsay at PinchofYum.com,
+        a food and recipe blog, have built up a huge following and some months they have made nearly \$25k.
+        \n\nAnother blogging couple, Yeison and Samantha, who run mytanfeet.com are making over $5k per month
+        while they travel the world and share their photos and stories on their blog.
+        \n\nI\’m not going to lie to you but it can take months even years before
+        you might see a significant return on the time you invest in to starting a blog
+        but that is why I have created this free guide so that you can be confident in
+        taking the right steps to achieving your blogging goals.
+        \n\nSo let’s start..
+    </string>
+    <string name="niche">How to Pick a Profitable Blog Niche?</string>
+    <string name="niche_content1">This is the most critical step. Seriously.
+        \n\nThere is no point in starting a blog that you want to make money from without a plan. There are thousands,
+        even hundreds of niches out there.Some are broad and huge;
+        some are small and virtually unknown. Some niches are easier to make money in than others.
+        \n\nThis is why your research is important.
+        \n\nA good place to start when you are picking a niche is to look at your own interests in Google.
+        \n\nThink about niche select your niche or you can search on google \"how to select profitable blogging niche\" .
+    </string>
+    <string name="blogiing_m">What Will You Need to Make Money Blogging</string>
+    <string name="make_blog_content">If you\’re planning to make money from blogging then
+        it goes with out saying that you will need to make a blog.
+        \n\nWhen anyone asks me about starting a professional money making blog I always recommend them to use
+        self hosted WordPress as it\’s the best platform for bloggers. You can easily manage WordPress.
+        \n\nIf you need WordPress blogging websites you can contact with us we will make for you at low cost,
+        Even we will teach you how can you manage your blogging websites by wordpress.
+        \n\nYou can check our demo blogging websites.
+        \n\nClick on below button to see our demo sites &amp; pricing for make full ready blogging websites.
+    </string>
+    <string name="_1_get_a_blog">1. Get a Blog:</string>
+    <string name="pricing">Demo &amp; Pricing Blogging Sites</string>
+    <string name="make_content">2. Create Great Content:</string>
+    <string name="blog_content">So now that you have built your blog you are ready to create some blog posts for your readers.
+        \n\nThe reason this section is called \“Great Content\” is because your content really does need to be
+        of a high standard. Everyday millions of blog posts are published on the internet and with so much competition
+        for our limited attention spans you really have to be creating blog posts people are going to want to
+        read and perhaps even share on social media or on their own blogs.
+        \n\nMake sure your posts are:
+        \n\n* Well formatted and look good with relevant images
+        \n\n* Are in-depth and entertaining
+        \n\n* Offer links to other posts to expand on points
+    </string>
+    <string name="audience">3. Build Up Your Audienc:e</string>
+    <string name="audience_content">I started my first ever blog by writing on a consistent schedule about myself,
+        my hobbies and interests. People found me via Google, Facebook, social media and my
+        readership gradually grew over time to where it is today.
+        \n\nOnce I had built up an audience, making money from blogging became an afterthought.
+        \n\nWhen you have a large group of fans interested in what you have to say, the money will come. Trust me on that.
+        \n\nThe hard part is finding and gathering your fans.
+    </string>
+    <string name="promote_your_blog">Promote your blog:</string>
+    <string name="promote_content">No matter how great your articles are no one is going to know about them unless you take time to promote your blog.</string>
+    <string name="seo">You need learn about SEO, you can get users from google search, you can\'t imagine how many users you get from google search engine</string>
+    <string name="monitze_blog">Best Ways to Make Money from Your Blog – Ways To Monetize Your Blog</string>
+    <string name="start_earning">So now that we have covered the basics of building up your blog and it’s following lets have a look at some different ways you can begin to monetize your blog and start earning.</string>
+    <string name="affiliate_marketing">Affiliate Marketing:</string>
+    <string name="affiliate_marketing_content">Affiliate marketing is a kind of performance-based marketing and a beast at monetizing your blog.
+        With this form of marketing, business owners reward affiliates for each customer brought to the company
+        through the affiliate\’s independent advertising endeavors.
+        There are four key players in affiliate marketing:
+        \n\n* the merchant
+        \n\n* the network
+        \n\n* the publisher
+        \n\n* the customer
+        \n\nAs a result of its increasing complexity, the affiliate marketing world has evolved to include a subset
+        of players which includes specialized third party vendors, affiliate management agencies,
+        and super-affiliates.
+        \n\nAffiliate marketing works in conjunction with several other online advertising mechanisms.
+        This is the case because affiliates will often use these platforms for marketing purposes.
+        Some of the mechanisms include search engine optimization (SEO), e-mail marketing,
+        paid search engine marketing (PPC-Pay Per Click), display advertising, and content marketing.
+        At the same time, affiliates can also appropriate less traditional advertising methods.
+        An example would be publishing reviews of services or products.
+        \n\nIn many cases, affiliate marketing is confused with referral marketing.
+        This is likely the case because both marketing methods involve the use of third parties
+        who drive business to a retailer.
+        \n\nIf you are planning to become an affiliate marketer then it might be a good idea to sign up to an
+        affiliate network such as Shareasale or ClickBank in order to find offers to promote.
+    </string>
+    <string name="modern_ways_to_make_money_from_your_blog">Modern Ways To Make Money from Your Blog:</string>
+    <string name="moni">There are various methods that you can use to monetize your blog.
+        Depending upon your level of blogging and the kind of blog,
+        you could pick the method that matches with your style.
+        Do check the end of this article to get the answers to many important questions asked by bloggers like you.
+    </string>
+    <string name="adsnet">1. Ad Networks like AdSense,Media.net
+        \n\n2. Direct Advertisements
+        \n\n3. Affiliate marketing
+        \n\n4. Paid reviews
+        \n\n5. Sell your eBook
+        \n\n6. Launch an Online Course
+        \n\n7. Offer Online consulting \n\n8. Offer Services based on your skills</string>
+    <string name="how_do">How do I start?\nWhich service do you provide?</string>
+    <string name="no_internet">No Internet</string>
+    <string name="retry">Retry</string>
+    <string name="android_app_dev">👉 Course fee \$250 USD\n👉 Course Duration 30 days (60 hours).
+        \n👉 Four class per week.\n👉 Live class by Skype \n👉 Contact Us for more details</string>
+    <string name="web_dev">👉 Course fee \$190 USD\n👉 Course Duration 30 days (60 hours).
+        \n👉 Four class per week.\n👉 Live class by Skype \n👉 Contact Us for more details</string>
+    <string name="money_making_by_android_apps">Money Making By Android Apps!</string>
+    <string name="see_the_video_given_below">See the video given below</string>
+    <string name="see_our_all_apps_amp_pricing"><![CDATA[See Our All Apps & Pricing]]></string>
+    <string name="our_services">Our Services:</string>
+    <string name="which_things_did_you_need_to_know_for_work_with_android_apps">Which things did you need to know for work with Android Apps?</string>
+    <string name="android_studio1">Android Studio</string>
+    <string name="google_play_console">Google Play Console</string>
+    <string name="admob1">Admob</string>
+    <string name="adsense1">AdSense</string>
+    <string name="what_is_play_console">What is Play Console?</string>
+    <string name="what_is_admob">What is Admob?</string>
+    <string name="what_is_adsense">What is AdSense?</string>
+    <string name="app_development">1. Android App Development</string>
+    <string name="video_given_below">See the video given below</string>
+    <string name="img">img</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="course">What do you achieve from this course?</string>
+    <string name="finish">If you properly finish this course and follow our guide, I hope you can developed this type app which you browse now (MakeWishOnline). and more app link given below</string>
+    <string name="more_apps">More Apps</string>
+    <string name="top_browser">Top Browser</string>
+    <string name="turbo_vpn">Turbo VPN</string>
+    <string name="_2_web_development">2. Web Development</string>
+    <string name="what_do_you_achieve_from_this_course">What do you achieve from this course?</string>
+    <string name="wordpress_site_for_buyer">If you properly finish this course and follow our guide, I hope you can customize any type of wordpress sites and you can developed wordpress site for buyer.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_us_we_will_make_any_type_of_wordpress_site">Contact us we will make any type of WordPress Site</string>
+
+
+</resources>

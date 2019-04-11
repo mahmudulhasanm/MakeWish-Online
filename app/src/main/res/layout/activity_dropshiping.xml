@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#ddd"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Dropshiping">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:id="@+id/banner_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:background="@drawable/content"
+            android:orientation="vertical"
+            android:layout_margin="10sp"
+            android:padding="10sp"
+            android:id="@+id/collection"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:layout_gravity="center"
+                android:textSize="16sp"
+                android:layout_marginTop="10sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/neo_latina"
+                android:text="Money Making By Dropshipping business"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:layout_margin="15sp"
+                android:layout_gravity="center"
+                android:src="@drawable/dropship" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/dropship"
+                android:textColor="#000"
+                android:fontFamily="@font/opensense"
+                android:textSize="15sp"
+                android:layout_marginTop="15sp"
+                android:textStyle="normal" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:background="@drawable/content"
+            android:orientation="vertical"
+            android:layout_margin="10sp"
+            android:padding="10sp"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10sp"
+                android:text="How to Start DropShipping Store?"
+                android:textColor="#000"
+                android:fontFamily="@font/neo_latina"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_marginTop="10sp"
+                android:layout_height="50sp">
+                <ImageView
+                    android:layout_width="50sp"
+                    android:src="@drawable/shopif"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10sp"
+                    android:textSize="15sp"
+                    android:fontFamily="@font/opensense"
+                    android:textColor="#000"
+                    android:textStyle="bold"
+                    android:layout_gravity="center"
+                    android:text="Shopify"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_marginTop="10sp"
+                android:layout_height="50sp">
+                <ImageView
+                    android:layout_width="50sp"
+                    android:src="@drawable/wordpres"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10sp"
+                    android:textSize="15sp"
+                    android:fontFamily="@font/opensense"
+                    android:textColor="#000"
+                    android:textStyle="bold"
+                    android:layout_gravity="center"
+                    android:text="WordPress"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_marginTop="10sp"
+                android:layout_height="50sp">
+                <ImageView
+                    android:layout_width="50sp"
+                    android:src="@drawable/wooc"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10sp"
+                    android:textSize="15sp"
+                    android:textColor="#000"
+                    android:textStyle="bold"
+                    android:fontFamily="@font/opensense"
+                    android:layout_gravity="center"
+                    android:text="WooCommerce"/>
+            </LinearLayout>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:layout_marginTop="20sp"
+                android:fontFamily="@font/opensense"
+                android:textColor="#000"
+                android:text="@string/shopify"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/shopify_content"
+                android:textColor="#000"
+                android:fontFamily="@font/opensense"
+                android:textSize="15sp"
+                android:textStyle="normal" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:fontFamily="@font/opensense"
+                android:layout_marginTop="20sp"
+                android:textColor="#000"
+                android:text="@string/woocommece"/>
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="normal"
+                android:textSize="15sp"
+                android:textColor="#000"
+                android:fontFamily="@font/opensense"
+                android:text="@string/woo_content"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:background="@drawable/content"
+            android:orientation="vertical"
+            android:layout_margin="10sp"
+            android:padding="10sp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/opensense"
+                android:textSize="16sp"
+                android:textColor="#000"
+                android:text="If You Want You Can Get Full Ready DropShippng Store From Us At Low Cost."/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:background="#4CAF50"
+                android:layout_height="wrap_content"
+                android:padding="5sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/opensense"
+                android:textSize="15sp"
+                android:textColor="#fff"
+                android:text="@string/dropship_content"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:background="@drawable/circle2"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:id="@+id/my_store"
+            android:layout_marginRight="20sp"
+            android:layout_marginLeft="20sp"
+            android:layout_height="70sp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20sp"
+                android:textSize="16sp"
+                android:layout_marginRight="20sp"
+                android:fontFamily="@font/opensense"
+                android:textColor="@color/colorPrimary"
+                android:text="Visit Our DropShipping Store"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:background="@drawable/circle2"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:layout_marginRight="20sp"
+            android:id="@+id/demo_store"
+            android:layout_marginTop="20sp"
+            android:layout_marginBottom="20sp"
+            android:layout_marginLeft="20sp"
+            android:layout_height="70sp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_marginTop="20sp"
+                android:textSize="16sp"
+                android:fontFamily="@font/opensense"
+                android:layout_marginRight="20sp"
+                android:textColor="@color/colorPrimary"
+                android:text="Our Pricing &amp; Demo Store"/>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
+</LinearLayout>

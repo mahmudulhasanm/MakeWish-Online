@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ddd"
+    tools:context=".Youtube_business">
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="UselessParent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:id="@+id/banner_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@drawable/content"
+        android:orientation="vertical"
+        android:padding="10sp"
+        android:layout_margin="10sp"
+        android:id="@+id/collection"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:textSize="16sp"
+            android:fontFamily="@font/neo_latina"
+            android:layout_marginTop="10sp"
+            android:textStyle="bold"
+            android:text="@string/how"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/youtube1" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+           android:textSize="15sp" android:fontFamily="@font/opensense"
+            android:textColor="#000"
+            android:text="@string/youtube_content1"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@drawable/content"
+        android:orientation="vertical"
+        android:padding="10sp"
+        android:layout_margin="10sp"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+           android:textSize="15sp" android:fontFamily="@font/opensense"
+            android:textColor="#000"
+            android:text="@string/youtube_content2"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@drawable/content"
+        android:orientation="vertical"
+        android:padding="10sp"
+        android:layout_margin="10sp"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:background="@drawable/content"
+            android:orientation="vertical"
+            android:padding="10sp"
+            android:layout_margin="10sp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:layout_gravity="center"
+                android:textSize="16sp" android:fontFamily="@font/opensense"
+                android:layout_marginTop="10sp"
+                android:textStyle="bold"
+                android:text="@string/chapter_1"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:layout_margin="10sp"
+                android:layout_gravity="center"
+                android:src="@drawable/cp_1" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="normal"
+                android:layout_gravity="center"
+               android:textSize="15sp" android:fontFamily="@font/opensense"
+                android:textColor="#000"
+                android:text="@string/how1"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@drawable/content"
+        android:orientation="vertical"
+        android:padding="10sp"
+        android:layout_margin="10sp"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:background="@drawable/content"
+            android:orientation="vertical"
+            android:padding="10sp"
+            android:layout_margin="10sp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:layout_gravity="center"
+                android:textSize="16sp" android:fontFamily="@font/opensense"
+                android:layout_marginTop="10sp"
+                android:textStyle="bold"
+                android:text="@string/chapter_2"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:layout_margin="10sp"
+                android:layout_gravity="center"
+                android:src="@drawable/cp_2" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="normal"
+                android:layout_gravity="center"
+               android:textSize="15sp" android:fontFamily="@font/opensense"
+                android:textColor="#000"
+                android:text="@string/how2"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@drawable/content"
+        android:orientation="vertical"
+        android:padding="10sp"
+        android:layout_margin="10sp"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:padding="10sp"
+            android:layout_margin="10sp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:layout_gravity="center"
+                android:textSize="16sp" android:fontFamily="@font/opensense"
+                android:layout_marginTop="10sp"
+                android:textStyle="bold"
+                android:text="@string/chapter_3"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:layout_margin="10sp"
+                android:layout_gravity="center"
+                android:src="@drawable/cp_3" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="normal"
+                android:layout_gravity="center"
+               android:textSize="15sp" android:fontFamily="@font/opensense"
+                android:textColor="#000"
+                android:text="@string/how3"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@drawable/content"
+        android:orientation="vertical"
+        android:padding="10sp"
+        android:layout_margin="10sp"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:padding="10sp"
+            android:layout_margin="10sp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:layout_gravity="center"
+                android:textSize="16sp" android:fontFamily="@font/opensense"
+                android:layout_marginTop="10sp"
+                android:textStyle="bold"
+                android:text="@string/chapter_4"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:layout_margin="10sp"
+                android:layout_gravity="center"
+                android:src="@drawable/cp_4" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="normal"
+                android:layout_gravity="center"
+               android:textSize="15sp" android:fontFamily="@font/opensense"
+                android:textColor="#000"
+                android:text="@string/how4"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@drawable/content"
+        android:orientation="vertical"
+        android:layout_margin="10sp"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_margin="10sp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:textSize="16sp" android:fontFamily="@font/opensense"
+                android:textStyle="bold"
+                android:text="@string/cp_content"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:layout_margin="10sp"
+                android:layout_gravity="center"
+                android:src="@drawable/cp_1" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="normal"
+                android:layout_gravity="center"
+               android:textSize="15sp" android:fontFamily="@font/opensense"
+                android:textColor="#000"
+                android:text="@string/cp1_content1"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:layout_marginTop="10sp"
+                android:textSize="16sp" android:fontFamily="@font/opensense"
+                android:textStyle="bold"
+                android:text="@string/_1_go_to_youtube"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:layout_marginTop="10sp"
+                android:layout_gravity="center"
+                android:src="@drawable/ch1" />
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginTop="10sp"
+            android:textSize="16sp" android:fontFamily="@font/opensense"
+            android:textStyle="bold"
+            android:text="@string/_2_click_sign_in_at_the_top_right_corner"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:layout_marginTop="10sp"
+                android:layout_gravity="center"
+                android:src="@drawable/ch2" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:layout_marginTop="10sp"
+                android:textSize="16sp" android:fontFamily="@font/opensense"
+                android:textStyle="bold"
+                android:text="@string/signin"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_gravity="center"
+                android:src="@drawable/ch3" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:layout_marginTop="15sp"
+                android:layout_marginBottom="15sp"
+                android:textSize="16sp" android:fontFamily="@font/opensense"
+                android:textStyle="bold"
+                android:text="@string/_4_once_you_ve_signed_in_you_can_click_the_gear_icon_in_the_top_right_corner"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="400sp"
+                android:layout_marginTop="10sp"
+                android:layout_gravity="center"
+                android:src="@drawable/ch5" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:textSize="16sp" android:fontFamily="@font/opensense"
+                android:layout_marginTop="10sp"
+                android:textStyle="bold"
+                android:text="@string/info_last"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="150sp"
+                android:layout_gravity="center"
+                android:src="@drawable/ch4" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@drawable/content"
+        android:orientation="vertical"
+        android:layout_margin="10sp"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:padding="10sp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:textSize="16sp" android:fontFamily="@font/opensense"
+                android:textStyle="bold"
+                android:text="@string/cp_2_content"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:layout_margin="10sp"
+                android:layout_gravity="center"
+                android:src="@drawable/cp_2" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="normal"
+                android:layout_gravity="center"
+               android:textSize="15sp" android:fontFamily="@font/opensense"
+                android:textColor="#000"
+                android:text="@string/cp_2_more"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:layout_marginTop="10sp"
+                android:textSize="16sp" android:fontFamily="@font/opensense"
+                android:textStyle="bold"
+                android:text="@string/monitize"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:layout_marginTop="10sp"
+                android:textSize="16sp" android:fontFamily="@font/opensense"
+                android:textStyle="bold"
+                android:text="@string/ads1"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="normal"
+                android:layout_gravity="center"
+               android:textSize="15sp" android:fontFamily="@font/opensense"
+                android:textColor="#000"
+                android:text="@string/apply_for_ads"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:layout_gravity="center"
+                android:id="@+id/btn_monitize"
+                android:layout_marginTop="10sp"
+                android:padding="10sp"
+                android:text="@string/youtube_policy"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:layout_marginTop="10sp"
+                android:textSize="16sp" android:fontFamily="@font/opensense"
+                android:textStyle="bold"
+                android:text="@string/sponsored"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="normal"
+                android:layout_gravity="center"
+               android:textSize="15sp" android:fontFamily="@font/opensense"
+                android:textColor="#000"
+                android:text="@string/sponsored_content"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_gravity="center"
+                android:src="@drawable/brands" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:layout_marginTop="10sp"
+                android:textSize="16sp" android:fontFamily="@font/opensense"
+                android:textStyle="bold"
+                android:text="@string/sell"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="normal"
+                android:layout_gravity="center"
+               android:textSize="15sp" android:fontFamily="@font/opensense"
+                android:textColor="#000"
+                android:text="@string/sell_content"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:textSize="16sp" android:fontFamily="@font/opensense"
+                android:textStyle="bold"
+                android:text="@string/info_dis"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="normal"
+                android:layout_marginTop="10sp"
+                android:layout_gravity="center"
+               android:textSize="15sp" android:fontFamily="@font/opensense"
+                android:textColor="#000"
+                android:text="@string/sell_more_content"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:background="@drawable/content"
+    android:orientation="vertical"
+    android:layout_margin="10sp"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="10sp"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:textSize="16sp" android:fontFamily="@font/opensense"
+            android:textStyle="bold"
+            android:text="@string/cp_3"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200sp"
+            android:layout_margin="10sp"
+            android:layout_gravity="center"
+            android:src="@drawable/cp_3" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+            android:layout_gravity="center"
+           android:textSize="15sp" android:fontFamily="@font/opensense"
+            android:textColor="#000"
+            android:text="@string/cp2_more"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginTop="10sp"
+            android:textSize="16sp" android:fontFamily="@font/opensense"
+            android:textStyle="bold"
+            android:text="@string/partner"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginTop="10sp"
+           android:textSize="15sp" android:fontFamily="@font/opensense"
+            android:textStyle="normal"
+            android:text="@string/advantage"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginTop="10sp"
+            android:textSize="16sp" android:fontFamily="@font/opensense"
+            android:textStyle="bold"
+            android:text="@string/affi"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+            android:layout_gravity="center"
+           android:textSize="15sp" android:fontFamily="@font/opensense"
+            android:textColor="#000"
+            android:text="@string/affi_content"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginTop="10sp"
+            android:textSize="16sp" android:fontFamily="@font/opensense"
+            android:textStyle="bold"
+            android:text="@string/selling"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+            android:layout_gravity="center"
+           android:textSize="15sp" android:fontFamily="@font/opensense"
+            android:textColor="#000"
+            android:text="@string/selling_content"/>
+    </LinearLayout>
+</LinearLayout>
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:background="@drawable/content"
+    android:orientation="vertical"
+    android:layout_margin="10sp"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="10sp"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:textSize="16sp" android:fontFamily="@font/opensense"
+            android:textStyle="bold"
+            android:text="@string/cp_4"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200sp"
+            android:layout_margin="10sp"
+            android:layout_gravity="center"
+            android:src="@drawable/cp_4" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+            android:layout_gravity="center"
+           android:textSize="15sp" android:fontFamily="@font/opensense"
+            android:textColor="#000"
+            android:text="@string/cp4_more"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginTop="10sp"
+            android:textSize="16sp" android:fontFamily="@font/opensense"
+            android:textStyle="bold"
+            android:text="@string/quality"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginTop="10sp"
+           android:textSize="15sp" android:fontFamily="@font/opensense"
+            android:textStyle="normal"
+            android:text="@string/quality_content"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginTop="10sp"
+            android:textSize="16sp" android:fontFamily="@font/opensense"
+            android:textStyle="bold"
+            android:text="@string/equipments"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+            android:layout_gravity="center"
+           android:textSize="15sp" android:fontFamily="@font/opensense"
+            android:textColor="#000"
+            android:text="@string/equipments_content"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginTop="10sp"
+            android:textSize="16sp" android:fontFamily="@font/opensense"
+            android:textStyle="bold"
+            android:text="@string/quality_audience"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+            android:layout_gravity="center"
+           android:textSize="15sp" android:fontFamily="@font/opensense"
+            android:textColor="#000"
+            android:text="@string/quality_audience_content"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginTop="10sp"
+            android:textSize="16sp" android:fontFamily="@font/opensense"
+            android:textStyle="bold"
+            android:text="@string/website"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+            android:layout_gravity="center"
+           android:textSize="15sp" android:fontFamily="@font/opensense"
+            android:textColor="#000"
+            android:text="@string/website_content"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginTop="10sp"
+            android:textSize="16sp" android:fontFamily="@font/opensense"
+            android:textStyle="bold"
+            android:text="@string/cop"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+            android:layout_gravity="center"
+           android:textSize="15sp" android:fontFamily="@font/opensense"
+            android:textColor="#000"
+            android:text="@string/cop_content"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180sp"
+            android:layout_gravity="center"
+            android:src="@drawable/hedline" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+            android:layout_gravity="center"
+           android:textSize="15sp" android:fontFamily="@font/opensense"
+            android:textColor="#000"
+            android:text="@string/cop2_content"/>
+    </LinearLayout>
+</LinearLayout>
+
+</LinearLayout>
+</ScrollView>
+
+</LinearLayout>
